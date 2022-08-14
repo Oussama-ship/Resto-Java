@@ -12,6 +12,8 @@ Pour faciliter l'aplication les boisson se rajouteront a l'addition sur forme de
 
 Les serveur devront s'identifier via une HASHTABLE pour savoir qu'elle serveur a servis quel table
 
+Le front-end est réaliser avec des Jframe
+
 ## Voici quelques classes
 
 Commande : représente une commande
