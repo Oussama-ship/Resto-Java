@@ -1,0 +1,13 @@
+PP & "Boulet sauce lapin" & 17.5f
+PP & "Vol-au-vent sauce champignon" & 20.0f
+PP & "Steak au poivre" & 19.5f
+PP & "Pizza aux 4 fromages" & 8.5f
+PP & "Boeuf bourguignon" & 22.0f
+PP & "Paella aux fruits de mer" & 13.5f
+PP & "Pâté aux escargots" & 72.0f
+D & "Mousse au chocolat" & 6.0f
+D & "Crêpe au sucre" & 7.5f
+D & "Dame blanche" & 5.5f
+D & "Salade de fruits" & 5.0f
+D & "Fondant au chocolat" & 7.0f
+D & "Gauffres de Liège" & 5.0f
